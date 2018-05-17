@@ -23,6 +23,18 @@
     height: 40px;
   }
 
+    #right:hover {
+      background-color: hotpink;
+  }
+
+  #middle:hover {
+    background-color: rgb(191, 29, 212);
+  }
+
+  #left:hover {
+    background-color: rgb(245, 121, 49);
+  }
+
   #left {
     background-color: rgb(105, 105, 105);
     float: right;

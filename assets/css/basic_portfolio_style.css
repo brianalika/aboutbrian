@@ -57,6 +57,18 @@
     font-weight: bolder;
   }
 
+  #right:hover {
+      background-color: hotpink;
+  }
+
+  #middle:hover {
+    background-color: rgb(191, 29, 212);
+  }
+
+  #left:hover {
+    background-color: rgb(245, 121, 49);
+  }
+
   .content {
     position: fixed;
     top: 130px;

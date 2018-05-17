@@ -9,6 +9,18 @@
       background-image: url("../images/signaturebackground.jpg");
   }
 
+    #right:hover {
+        background-color: hotpink;
+    }
+
+    #middle:hover {
+    background-color: rgb(191, 29, 212);
+    }
+
+    #left:hover {
+    background-color: rgb(245, 121, 49);
+    }
+
   #contactbutton {
     width: 130px;
     height: 40px;
