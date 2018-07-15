@@ -139,6 +139,15 @@
     left: 440px;
 }
 
+.box7 {
+    background-color: rgb(24, 129, 120);
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    top: 780px;
+    left: 775px;
+}
+
 /* .box7 {
     background-color: rgb(24, 129, 120);
     height: 248px;
